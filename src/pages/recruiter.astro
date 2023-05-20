@@ -5,6 +5,7 @@ import "~/styles/list.css";
 ---
 
 <SiteLayout title="Recruiter" description="Alle individuellen Recruiter">
+  <h2 id=pageHeader>Recruiters</h2>
   <div id="listContainer">
     {
       recruiter.map((json: any) => (
@@ -20,7 +21,7 @@ import "~/styles/list.css";
             {json.name}
           </a>
           <a
-            class="recruiterCompanyField listLineElement"
+            class="recruiterCompanyField listLineElementCompany" // James updated this to change the css
             href={"/firmen/" + json.company}
           >
             {json.company}
