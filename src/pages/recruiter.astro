@@ -6,7 +6,6 @@ import "~/styles/list.css";
 
 <SiteLayout title="Recruiter" description="Alle individuellen Recruiter">
   <h2 id=pageHeader>Recruiters</h2>
-<<<<<<< HEAD
 
 <!-- Search form Recruiters -->
 <form action="/searchRecruiter" method="GET" class="navbar-search-form-recruiter">
@@ -45,28 +44,6 @@ import "~/styles/list.css";
               {json.company}
             </a>
           </div>
-=======
-  <div id="listContainer">
-    {
-      recruiter.map((json: any) => (
-        <div class="listElement">
-          <img
-            class="avatarImage listLineElement"
-            src="/images/emptyAvatar.jpg"
-          />
-          <a
-            class="recruiterNameField listLineElement"
-            href={"/recruiter/" + json.name}
-          >
-            {json.name}
-          </a>
-          <a
-            class="recruiterCompanyField listLineElementCompany" // James updated this to change the css
-            href={"/firmen/" + json.company}
-          >
-            {json.company}
-          </a>
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
         </div>
       ))
     }

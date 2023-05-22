@@ -4,14 +4,9 @@
         "title": "Senior Key Account Manager",
         "company": "Hays",
         "city": "Berlin",
-<<<<<<< HEAD
         "lastUpdated": "21/05/2023",
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "lastUpdated": null,
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -19,12 +14,8 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Julia Palme",
@@ -32,12 +23,8 @@
         "company": "Hays",
         "city": "Berlin",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -45,12 +32,8 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Julia Palme",
@@ -58,12 +41,8 @@
         "company": "Hays",
         "city": "Berlin",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -71,12 +50,8 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Julia Palme",
@@ -84,12 +59,8 @@
         "company": "Hays",
         "city": "Berlin",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -97,12 +68,8 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Julia Palme",
@@ -110,12 +77,8 @@
         "company": "Hays",
         "city": "Berlin",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -123,12 +86,8 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Julia Palme",
@@ -136,12 +95,8 @@
         "company": "Hays",
         "city": "Berlin",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
-=======
-        "phone": "555-555-555"
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     },
     {
         "name": "Ömer Sirin",
@@ -149,7 +104,6 @@
         "company": "Hays",
         "city": "Hannover",
         "lastUpdated": null,
-<<<<<<< HEAD
         "phone": "555-555-555",
         "email": "fakeemail@email.com"
     },
@@ -263,9 +217,4 @@
     }
 
 
-=======
-        "phone": "555-555-555"
-    }
-
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 ]

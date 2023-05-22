@@ -1,5 +1,4 @@
 /* define CSS variables */
-<<<<<<< HEAD
 /* :root {
   --primary-color: #003a6d;
   --secondary-color: #cfd8dc;
@@ -12,26 +11,11 @@ html {
   font-family: Arial;
   line-height: 1.8em;
   color: #003a6d;
-=======
-:root {
-  --primary-color: #003a6d;
-  --secondary-color: #cfd8dc;
-  --light-color: #e0f7fa; /* This is a light blue color, change it to any color you prefer */
-  --dark-color: #003a6d;
-  --primary-font: "Open Sans", Helvetica, sans-serif;
-}
-
-html {
-  font-family: var(--primary-font);
-  line-height: 1.8em;
-  color: var(--dark-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 }
 
 body {
   padding: 0;
   margin: 0;
-<<<<<<< HEAD
   background-color: #EEF1FA;
   display: flex;
   min-height: 100vh;
@@ -39,11 +23,6 @@ body {
 }
 
 
-=======
-  background-color: #EEF1FA; /* Body background color */
-}
-
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 /* NAVBAR */
 
 .navbar {
@@ -82,36 +61,22 @@ body {
 }
 
 .navbar a:hover {
-<<<<<<< HEAD
   color: #cfd8dc;
-=======
-  color: var(--secondary-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   transition: color 0.3s ease-in-out;
 }
 
 /* CONTENT */
 
-<<<<<<< HEAD
 /.content {
   flex: 1 0 auto;
   flex-grow: 1;
   /* margin: 40px auto;
-=======
-/* .content {
-  margin: 40px auto;
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   background-color: white;
   padding: 20px;
   border-radius: 8px;
   width: 900px;
-<<<<<<< HEAD
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1); */
 } 
-=======
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
-} */
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 
 /* FOOTER */
 
@@ -119,14 +84,8 @@ body {
   margin-top: 75px;
   flex-shrink: 0;
   width: 100%;
-<<<<<<< HEAD
   height: 80px;
   background-color: #003a6d;
-=======
-  margin-top: 50px;
-  height: 80px;
-  background-color: var(--primary-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   color: white;
   display: flex;
   align-items: center;
@@ -134,7 +93,6 @@ body {
   box-shadow: 0 -2px 4px 0 rgba(0, 0, 0, 0.1);
 }
 
-<<<<<<< HEAD
 .wrapper {
   display: flex;
   flex-direction: column;
@@ -144,8 +102,6 @@ body {
 
 
 
-=======
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 /* Media Query for larger screens */
 @media (min-width: 768px) {
   .navbar {
@@ -162,11 +118,7 @@ body {
   }
 
   .navbar li:hover {
-<<<<<<< HEAD
     background-color: #cfd8dc;
-=======
-    background-color: var(--secondary-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   }
 
 
@@ -194,12 +146,8 @@ body {
   padding: 0.5rem;
   padding-right: 2rem; /* Make room for the button inside the input */
   width: 100%;
-<<<<<<< HEAD
   border: 1px solid;
   border-color: #003a6d;
-=======
-  border: 1px solid var(--dark-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   border-radius: 20px; /* Increase border-radius for rounded edges */
   outline: none; /* Remove focus outline */
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Add shadow for 3D effect */
@@ -222,15 +170,9 @@ body {
 
 
 #pageHeader {
-<<<<<<< HEAD
   font-family: Arial;
   line-height: 20px;
   color: #003a6d;
-=======
-  font-family: var(--primary-font);
-  line-height: 20px;
-  color: var(--dark-color);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
   text-align: center; /* Center the text */
   font-size: 32px; /* Increase font size */
   font-weight: bold; /* Make it bold */

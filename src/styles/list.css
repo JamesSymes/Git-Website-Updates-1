@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* :root {
-=======
-:root {
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     --primary-color: #333;
     --hover-color: #000;
     --secondary-color: #dbdbdb;
@@ -15,7 +11,6 @@
     --avatar-size: 3rem;
     --container-size: 200px;
     --container-padding: 1rem;
-<<<<<<< HEAD
 } */
 
 #listContainer {
@@ -25,17 +20,6 @@
     justify-content: center;
     align-items: start;
     margin: 0 auto 75px auto;
-=======
-}
-
-#listContainer {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(var(--container-size), 1fr));
-    grid-gap: var(--gap-size);
-    justify-content: center;
-    align-items: start;
-    margin: 0 auto;
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     width: 80%;
     box-sizing: border-box;
 }
@@ -52,10 +36,7 @@
     padding: 5px;
     box-sizing: border-box;
     background-color: white;
-<<<<<<< HEAD
     border-radius: 3px;
-=======
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 }
 
 .avatarImage {
@@ -68,11 +49,7 @@
 .listLineElement, .listLineElementCompany {
     text-decoration: none;
     font-size: 1rem;
-<<<<<<< HEAD
     font-family: Arial;
-=======
-    font-family: var(--main-font);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     text-align: center;
     margin-top: 1rem;
 }
@@ -89,7 +66,6 @@
 }
 
 .listTitle:visited {
-<<<<<<< HEAD
     color: #333;
 }
 
@@ -141,18 +117,12 @@
   
 
 
-=======
-    color: var(--primary-color);
-}
-
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
 @media (min-width: 768px) {
     #listContainer {
         grid-template-columns: repeat(4, 1fr);
     }
 
     .listElement {
-<<<<<<< HEAD
         border-color: #dbdbdb;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 
@@ -166,19 +136,5 @@
     .listElement:active {
         border-color: #dbdbdb;
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
-=======
-        border-color: var(--secondary-color);
-        box-shadow: var(--light-shadow);
-    }
-
-    .listElement:hover {
-        border-color: var(--secondary-color);
-        box-shadow: var(--medium-shadow);
-    }
-
-    .listElement:active {
-        border-color: var(--secondary-color);
-        box-shadow: var(--active-shadow);
->>>>>>> 245e91e3025b7a18f918eecd1fb9fb56b6c5c874
     }
 }
