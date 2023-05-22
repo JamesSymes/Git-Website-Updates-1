@@ -1,18 +1,3 @@
-/* :root {
-    --primary-color: #333;
-    --hover-color: #000;
-    --secondary-color: #dbdbdb;
-    --shadow-color: rgba(0, 0, 0, 0.2);
-    --light-shadow: 0 4px 6px var(--shadow-color);
-    --medium-shadow: 0 5px 15px var(--shadow-color);
-    --active-shadow: 0 1px 3px var(--shadow-color);
-    --main-font: 'Roboto', Helvetica, Arial, sans-serif;
-    --gap-size: 3%; 
-    --avatar-size: 3rem;
-    --container-size: 200px;
-    --container-padding: 1rem;
-} */
-
 #listContainer {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
